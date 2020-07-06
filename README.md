@@ -1,7 +1,7 @@
 # leaflet-challenge
 Leaflet Homework - Visualizing Data with Leaflet
 
-Live Server: [Live Server](http://gioleonardo.com/leaflet-challenge/)
+gioleonardo.com/leaflet-challenge: [live](http://gioleonardo.com/leaflet-challenge/)
 
 ## Level 1: Basic Visualization
 ### Get data set and visualize the earthquake data set (gray map)
