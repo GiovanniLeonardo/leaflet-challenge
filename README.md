@@ -9,4 +9,4 @@ Leaflet Homework - Visualizing Data with Leaflet
 ![SatelliteMap](images/satellitemap.PNG)
 
 ### Outdoor map
-![SatelliteMap](images/satellitemap.PNG)
+![SatelliteMap](images/outdoormap.PNG)
